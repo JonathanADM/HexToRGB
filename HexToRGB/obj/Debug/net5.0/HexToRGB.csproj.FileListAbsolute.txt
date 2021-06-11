@@ -1,0 +1,16 @@
+D:\Users\jonaa\Documents\INTEC\Trimestre#8\Tendencias en Desarrollo de Aplicaciones\HexToRGB\HexToRGB\bin\Debug\net5.0\HexToRGB.exe
+D:\Users\jonaa\Documents\INTEC\Trimestre#8\Tendencias en Desarrollo de Aplicaciones\HexToRGB\HexToRGB\bin\Debug\net5.0\HexToRGB.deps.json
+D:\Users\jonaa\Documents\INTEC\Trimestre#8\Tendencias en Desarrollo de Aplicaciones\HexToRGB\HexToRGB\bin\Debug\net5.0\HexToRGB.runtimeconfig.json
+D:\Users\jonaa\Documents\INTEC\Trimestre#8\Tendencias en Desarrollo de Aplicaciones\HexToRGB\HexToRGB\bin\Debug\net5.0\HexToRGB.runtimeconfig.dev.json
+D:\Users\jonaa\Documents\INTEC\Trimestre#8\Tendencias en Desarrollo de Aplicaciones\HexToRGB\HexToRGB\bin\Debug\net5.0\HexToRGB.dll
+D:\Users\jonaa\Documents\INTEC\Trimestre#8\Tendencias en Desarrollo de Aplicaciones\HexToRGB\HexToRGB\bin\Debug\net5.0\ref\HexToRGB.dll
+D:\Users\jonaa\Documents\INTEC\Trimestre#8\Tendencias en Desarrollo de Aplicaciones\HexToRGB\HexToRGB\bin\Debug\net5.0\HexToRGB.pdb
+D:\Users\jonaa\Documents\INTEC\Trimestre#8\Tendencias en Desarrollo de Aplicaciones\HexToRGB\HexToRGB\obj\Debug\net5.0\HexToRGB.csprojAssemblyReference.cache
+D:\Users\jonaa\Documents\INTEC\Trimestre#8\Tendencias en Desarrollo de Aplicaciones\HexToRGB\HexToRGB\obj\Debug\net5.0\HexToRGB.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\jonaa\Documents\INTEC\Trimestre#8\Tendencias en Desarrollo de Aplicaciones\HexToRGB\HexToRGB\obj\Debug\net5.0\HexToRGB.AssemblyInfoInputs.cache
+D:\Users\jonaa\Documents\INTEC\Trimestre#8\Tendencias en Desarrollo de Aplicaciones\HexToRGB\HexToRGB\obj\Debug\net5.0\HexToRGB.AssemblyInfo.cs
+D:\Users\jonaa\Documents\INTEC\Trimestre#8\Tendencias en Desarrollo de Aplicaciones\HexToRGB\HexToRGB\obj\Debug\net5.0\HexToRGB.csproj.CoreCompileInputs.cache
+D:\Users\jonaa\Documents\INTEC\Trimestre#8\Tendencias en Desarrollo de Aplicaciones\HexToRGB\HexToRGB\obj\Debug\net5.0\HexToRGB.dll
+D:\Users\jonaa\Documents\INTEC\Trimestre#8\Tendencias en Desarrollo de Aplicaciones\HexToRGB\HexToRGB\obj\Debug\net5.0\ref\HexToRGB.dll
+D:\Users\jonaa\Documents\INTEC\Trimestre#8\Tendencias en Desarrollo de Aplicaciones\HexToRGB\HexToRGB\obj\Debug\net5.0\HexToRGB.pdb
+D:\Users\jonaa\Documents\INTEC\Trimestre#8\Tendencias en Desarrollo de Aplicaciones\HexToRGB\HexToRGB\obj\Debug\net5.0\HexToRGB.genruntimeconfig.cache
